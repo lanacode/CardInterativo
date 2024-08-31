@@ -25,4 +25,3 @@ com uma interação atraente para os clientes. A página inclui:
 
 - *Instagram*: https://www.instagram.com/artedasredes/
 - *Contato*: artedasredes@gmail.com
-- *Link para acessar o site*: 
