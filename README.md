@@ -1,4 +1,4 @@
-# Page Deadpool
+# Page Card Interativo
 
 Bem-vindo ao repositório do *Card Interativo*! Este projeto foi criado através de um codigo-fonte base e modificado de acordo com meus gostos e ideias.
 
